@@ -28,4 +28,4 @@ resources:
   homepage: https://github.com/hirokidaichi/p5-Data-Visitor-Lite/tree
   license: http://dev.perl.org/licenses/
   repository: git://github.com/hirokidaichi/p5-Data-Visitor-Lite.git
-version: 0.02_1
+version: 0.03
