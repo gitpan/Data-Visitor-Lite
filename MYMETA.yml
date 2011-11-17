@@ -20,10 +20,11 @@ no_index:
     - xt
 requires:
   Carp: 0
+  Data::Util: 0
   List::MoreUtils: 0
   Scalar::Util: 0
 resources:
   homepage: https://github.com/hirokidaichi/p5-Data-Visitor-Lite/tree
   license: http://dev.perl.org/licenses/
   repository: git://github.com/hirokidaichi/p5-Data-Visitor-Lite.git
-version: 0.01
+version: 0.02
